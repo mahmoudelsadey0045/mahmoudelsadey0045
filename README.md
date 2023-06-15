@@ -18,7 +18,10 @@
 ### Connect with Me :
 
 <a href="https://linkedin.com/in/yousefdergham" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Elsadey-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/YousefMohamed01" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Elsadey-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="https://t.me/MMHR0045" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Elsadey-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+
+
+
 ### 🛠 &nbsp;Tech Stack
 ![PhP](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
