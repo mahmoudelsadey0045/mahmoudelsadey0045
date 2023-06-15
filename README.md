@@ -40,5 +40,5 @@
 
 <br>
 <a href="https://komarev.com/ghpvc/?username=mahmoudelsadey&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=mahmoud elsadey&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=mahmoudelsadey&style=for-the-badge">
 </a>
