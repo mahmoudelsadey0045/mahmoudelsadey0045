@@ -3,7 +3,7 @@
 
 <h3 align="center">
   Welcome to mahmoud elsadey's profile!
-  <img src="http://www.frederickmaheux.com/" width="28">
+  <img src="https://giphy.com/gifs/loop-glitch-matrix-l0IyeheChYxx2byDu" width="28">
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
