@@ -14,6 +14,7 @@
 - 👨‍💻 I'm a Cyber Security Engineer 
 - 👨‍💻 As a IT student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 my experience with PhP,HTML,CSS,SQL,JS,Python
+- 💬Knowledge of tools like Nmap, Metasploit, and Wireshark for network penetration testing
 
 ### Connect with Me :
 
