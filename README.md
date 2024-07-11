@@ -21,7 +21,7 @@
 <a href="https://www.linkedin.com/in/mahmoud-elsadey-291003260" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Elsadey-0077B5?style=for-the-badge&logo=Linkedin&logoColor=black"/></a>
 <a href="https://t.me/MMHR0045" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Elsadey-0077B5?style=for-the-badge&logo=Telegram&logoColor=black"/></a>
 <a href="https://www.facebook.com/mahmoudelsawy0045/" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Elsadey-0077B5?style=for-the-badge&logo=Facebook&logoColor=black"/></a>
-<a href="https://twitter.com/MahmoudElsadey0" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Elsadey-0077B5?style=for-the-badge&logo=Twitter&logoColor=black"/></a>
+<a href="https://twitter.com/MahmoudElsadey0" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Elsadey-0077B5?style=for-the-badge&logo=twitter&logoColor=black"/></a>
 <a href="https://tryhackme.com/p/mahmoudelsadey56" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Elsadey-0077B5?style=for-the-badge&logo=tryhackme&logoColor=black"/></a>
 
 
