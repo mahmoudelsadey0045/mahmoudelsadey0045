@@ -14,15 +14,15 @@
 - 👨‍💻 I'm a Cyber Security Engineer 
 - 👨‍💻 As a IT student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 my experience with PhP,HTML,CSS,SQL,JS,Python
-- 💬Knowledge of tools like Nmap, Metasploit, and Wireshark for network penetration testing
+- 💬Knowledge of tools like Nmap, Metasploit,burpsuite,sqlmap and Wireshark for network penetration testing
 
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/mahmoud-elsadey-291003260" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Elsadey-0077B5?style=for-the-badge&logo=Linkedin&logoColor=black"/></a>
 <a href="https://t.me/MMHR0045" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Elsadey-0077B5?style=for-the-badge&logo=Telegram&logoColor=black"/></a>
 <a href="https://www.facebook.com/mahmoudelsawy0045/" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Elsadey-0077B5?style=for-the-badge&logo=Facebook&logoColor=black"/></a>
-<a href="https://twitter.com/MahmoudElsadey0" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Elsadey-0077B5?style=for-the-badge&logo=twitter&logoColor=black"/></a>
 <a href="https://tryhackme.com/p/mahmoudelsadey56" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Elsadey-0077B5?style=for-the-badge&logo=tryhackme&logoColor=black"/></a>
+<a href="https://twitter.com/MahmoudElsadey0" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Elsadey-0077B5?style=for-the-badge&logo=twitter&logoColor=black"/></a>
 
 
 
